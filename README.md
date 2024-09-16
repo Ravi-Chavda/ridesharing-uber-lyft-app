@@ -1,25 +1,6 @@
 # Ride-Sharing Uber Lyft Android App
 Learn to build a ride-sharing Android Taxi Clone App like Uber, Lyft - Open-Source Project
 
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/amitshekhariitbhu/ridesharing-uber-lyft-app/master/assets/banner-ridesharing-uber-lyft-app.jpg">
-</p>
-<br>
-
-## About me
-
-Hi, I am Amit Shekhar, Co-Founder @ [Outcome School](https://outcomeschool.com) • IIT 2010-14 • I have taught and mentored many developers, and their efforts landed them high-paying tech jobs, helped many tech companies in solving their unique problems, and created many open-source libraries being used by top companies. I am passionate about sharing knowledge through open-source, blogs, and videos.
-
-You can connect with me on:
-
-- [Twitter](https://twitter.com/amitiitbhu)
-- [YouTube](https://www.youtube.com/@amitshekhar)
-- [LinkedIn](https://www.linkedin.com/in/amit-shekhar-iitbhu)
-- [GitHub](https://github.com/amitshekhariitbhu)
-
-## [Outcome School Blog](https://outcomeschool.com/blog) - High-quality content to learn Android concepts.
-
 ## We will build and learn the following for the App like Uber and Lyft:
 * Create Rider Android Clone App
 * Fetch and show nearby cabs on Google Map
@@ -229,23 +210,3 @@ A WebSocket is a persistent connection between a client and server. WebSockets p
     }
     ```  
 
-### Find this project useful ? :heart:
-
-* Support it by clicking the :star: button on the upper right of this page. :v:
-
-### License
-```
-   Copyright (C) 2024 Amit Shekhar
-
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
-```
